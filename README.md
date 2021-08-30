@@ -2,6 +2,8 @@
 pragma solidity =0.8.1;
 
 contract trust {
+
+
     struct Kid{
         uint amount;
         uint maturity;
